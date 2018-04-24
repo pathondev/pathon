@@ -1,0 +1,11 @@
+[Protocol]
+exec=pat-qt '%u'
+protocol=pat
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
